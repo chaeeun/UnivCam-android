@@ -39,7 +39,7 @@
 ## 6. 팀원
 
 - **Design** (https://spemer.com/portfolio/album-image-sort-application-univcam.html) 
-  -서혁 [https://spemer.com](mailto:crjang91@gmail.com)
+  - 서혁 [https://spemer.com](mailto:crjang91@gmail.com)
   
 - **Android** (https://github.com/chaeeun/Univcam-android)
   - 이채은 (https://github.com/chaeeun)
